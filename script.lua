@@ -6,4 +6,6 @@ elseif PlaceId == 3956818381 then
     loadstring(game:HttpGet"https://raw.githubusercontent.com/toquyen8928/FreeScript/main/Quyen%20Hub/nl-3956818381.lua")()
 elseif PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5"))()
+elseif PlaceId == 9872472334 then
+    loadstring(game:HttpGet(""))()
 end
