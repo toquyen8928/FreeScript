@@ -6,6 +6,6 @@ elseif PlaceId == 3956818381 then
     loadstring(game:HttpGet"")() -- Ninja Lengends
 elseif PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5"))() -- Arsena;
-elseif PlaceId == 9872472334 then
+elseif PlaceId == 6600532334 then
     loadstring(game:HttpGet(""))() -- Evade
 end
