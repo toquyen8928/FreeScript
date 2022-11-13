@@ -7,5 +7,5 @@ elseif PlaceId == 3956818381 then
 elseif PlaceId == 286090429 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/fusiongreg/BoltsHubV5/main/BoltsHubV5"))() -- Arsena;
 elseif PlaceId == 6600532334 then
-    loadstring(game:HttpGet(""))() -- Evade
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/toquyen8928/FreeScript/main/TCQ%20Hub/QuyenHub.lua"))() -- Test
 end
