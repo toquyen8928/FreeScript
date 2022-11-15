@@ -8,4 +8,5 @@ loadstring(game:HttpGet"https://raw.githubusercontent.com/toquyen8928/FreeScript
 - Build A Boat For Treasure 
 - A 0ne Piece Game
 - Ro Ghoul
-([Information](https://ayo.so/toquyen8928))
+```
+[Ayo.so](https://ayo.so/toquyen8928)
