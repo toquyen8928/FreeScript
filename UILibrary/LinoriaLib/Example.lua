@@ -1,11 +1,8 @@
 -- New example script written by wally
 -- You can suggest changes with a pull request or something
-
-local repo = 'https://raw.githubusercontent.com/wally-rblx/LinoriaLib/main/'
-
-local Library = loadstring(game:HttpGet(repo .. 'Library.lua'))()
-local ThemeManager = loadstring(game:HttpGet(repo .. 'addons/ThemeManager.lua'))()
-local SaveManager = loadstring(game:HttpGet(repo .. 'addons/SaveManager.lua'))()
+local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/toquyen8928/FreeScript/main/UILibrary/LinoriaLib/Library.lua'))()
+local ThemeManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/toquyen8928/FreeScript/main/UILibrary/LinoriaLib/addons/ThemeManager.lua'))()
+local SaveManager = loadstring(game:HttpGet('https://raw.githubusercontent.com/toquyen8928/FreeScript/main/UILibrary/LinoriaLib/addons/SaveManager.lua'))()
 
 local Window = Library:CreateWindow({
     -- Set Center to true if you want the menu to appear in the center
