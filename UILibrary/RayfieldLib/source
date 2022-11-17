@@ -2,7 +2,7 @@ local Release = "Beta 7R"
 local NotificationDuration = 6.5
 local RayfieldFolder = "QuyenHub"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
-local ConfigurationExtension = ".rfld"
+local ConfigurationExtension = ".qh"
 
 
 
