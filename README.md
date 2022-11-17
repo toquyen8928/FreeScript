@@ -1,6 +1,6 @@
 # Nice Scripts make & collected by @toquyen8928 
 ```lua
-loadstring(game:HttpGet"https://raw.githubusercontent.com/toquyen8928/FreeScript/main/script.lua")()
+loadstring(game:HttpGet"https://raw.githubusercontent.com/toquyen8928/FreeScript/main/Script.lua")()
 ```
 # Games Supported
 ```
